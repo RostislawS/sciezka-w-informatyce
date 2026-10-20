@@ -84,3 +84,19 @@ W przyszłości chciałbym nauczyć się:
 
 \- JavaScript
 
+
+
+\## 7. Technologie, które chcę poznać
+
+
+
+W przyszłości chciałbym nauczyć się:
+
+\- ASP.NET Core
+
+\- SQL
+
+\- Docker
+
+\- JavaScript 
+
